@@ -1,8 +1,7 @@
 # Group 6 (Python-based Web Server)
 
 ~~~~~~~~~~~~
-Python --> 3.10.6
-Django --> 4.2
+Monitor temperature with ease using TempTrack.
 ~~~~~~~~~~~~
 
 Group members:  
