@@ -37,7 +37,7 @@ Link: http://ismaiel.pythonanywhere.com/playground/hello/
 
 Video: https://youtu.be/Op_G1_dshXM
 
-##Dashboard
-###InfluxDB + GRAFANA DASHBOARD 
+## Dashboard  
+### InfluxDB + GRAFANA DASHBOARD 
 https://datalogd.readthedocs.io/en/latest/recipes/win_serial_influxdb_grafana.html
 ![Figma basics (1)](https://user-images.githubusercontent.com/124263652/236373656-b9343815-68ac-4caf-86bc-162a757ad881.png)
