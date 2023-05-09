@@ -34,7 +34,7 @@ the Pythonanywhere, Django, and Grafana frameworks.
 
 Link: http://ismaiel.pythonanywhere.com/playground/hello/
 
-Video: 
+Video: https://youtu.be/Op_G1_dshXM
 
 ##Dashboard
 ###InfluxDB + GRAFANA DASHBOARD 
