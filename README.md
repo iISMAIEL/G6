@@ -32,7 +32,9 @@ the Pythonanywhere, Django, and Grafana frameworks.
 
 ##Cloud Platform
 
-ISMAIEL...
+Link: http://ismaiel.pythonanywhere.com/playground/hello/
+
+Video: 
 
 ##Dashboard
 ###InfluxDB + GRAFANA DASHBOARD 
