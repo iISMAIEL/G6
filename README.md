@@ -24,7 +24,7 @@ Two temperature sensors were utilized. The collected temperature data from the s
 boards, which will use the MQTT protocol to upload the data to the cloud-based InfluxDB system. 
 The project also aims to display the collected temperature data in a user-friendly manner using 
 the Pythonanywhere, Django, and Grafana frameworks. 
-
+https://github.com/iISMAIEL/G6/issues/1#issue-1701339997
 ## Sensor
 
 
