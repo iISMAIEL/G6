@@ -1,4 +1,4 @@
-# Group 6 (Python-based Web Server)
+# Group 6 (Blistered Basilisk)
 
 ~~~~~~~~~~~~
 Monitor temperature with ease using TempTrack.
