@@ -7,7 +7,7 @@ Monitor temperature with ease using TempTrack.
 Group members:  
 1- ISMAIEL HAITHAM EISSA - A19EE4055  
 2- NORDURRATUL HIKMAH BINTI MUSTAFFA -A19EE0382  
-3-
+3- SAYYID JA'FAR SADIQ - A19EE0435
 
 
 ## Problem Statement
@@ -28,8 +28,11 @@ the Pythonanywhere, Django, and Grafana frameworks.
 
 ## Sensor
 
+The Sensors used in this project will be either the temperature/humidity sensors DHT11/22 or the TMP36 sensor. They're connected
+to two Arduino Uno boards and each board will be placed on indoors and outdoors of an area, respectively. the sensors will be 
+operating for 2 weeks for temperature sensing and collecting for the upcoming Grafana dashboard for analysis.
 
-
+![Project1Sensor drawio](https://github.com/iISMAIEL/G6/assets/89000456/87024943-247e-4851-b20a-05a15faa6283)
 
 ## Cloud Platform
 
